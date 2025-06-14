@@ -102,5 +102,5 @@ pip install opencv-python mediapipe numpy
 ---
 
 **Author**: JulesDimanche  
-**License**: MIT  
+**License**: This project is open-source and available under the MIT License. 
 **Project Type**: Computer Vision, Fitness AI, Python
